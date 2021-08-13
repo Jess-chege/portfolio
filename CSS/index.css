@@ -199,10 +199,26 @@
     box-sizing: border-box;
     background-color: gray;
     color: white;
-    padding: 2px;
+    padding: 5px;
+   
+
 
 }
-.form{
+.footer{
+    padding: 10px;
+    height: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #594848;
+    font-family: ariel;
+    color: white;
+    letter-spacing: 1px;
+
+    
+
+}
+/*.form{
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
@@ -233,7 +249,7 @@
 #send:hover{
     cursor: pointer;
     box-shadow: 0 0 10px white;
-}
+}*/
 
 
 
